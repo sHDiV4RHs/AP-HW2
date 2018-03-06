@@ -1,0 +1,11 @@
+*.o
+
+*.pdf
+
+*.docx
+*.docx#
+
+Q1/main
+Q2/main
+Q3/main
+Q4/main
